@@ -1,0 +1,352 @@
+Testando com tamanho de tabela 10 e 20000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10: 21182600 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Multiplicação): 8046300 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Dobramento): 7963600 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10: 451 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10: 283 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10: 314 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10 e 100000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10: 52514600 nanossegundos.
+Número de colisões durante a inserção (Divisão): 1
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Multiplicação): 47331300 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Dobramento): 47117000 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10: 648 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10: 531 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10: 544 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10 e 500000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10: 523077300 nanossegundos.
+Número de colisões durante a inserção (Divisão): 6
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Multiplicação): 478032000 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 5
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Dobramento): 460515900 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 9
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10: 676 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10: 702 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10: 670 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10 e 1000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10: 807166500 nanossegundos.
+Número de colisões durante a inserção (Divisão): 21
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Multiplicação): 909170800 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 25
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Dobramento): 830930300 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 23
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10: 806 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10: 794 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10: 841 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10 e 5000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10: 5773297900 nanossegundos.
+Número de colisões durante a inserção (Divisão): 552
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Multiplicação): 6161407600 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 581
+Tempo de inserção para conjunto de dados com tamanho de tabela 10 (Dobramento): 6129730800 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 601
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10: 1247 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10: 1239 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10: 1118 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100 e 20000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100: 4279900 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Multiplicação): 4305600 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Dobramento): 4763400 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100: 217 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100: 219 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100: 215 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100 e 100000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100: 31341700 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Multiplicação): 32338000 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Dobramento): 32930900 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100: 426 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100: 399 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100: 422 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100 e 500000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100: 320854800 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Multiplicação): 330402100 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 2
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Dobramento): 347602100 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100: 556 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100: 575 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100: 657 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100 e 1000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100: 791771000 nanossegundos.
+Número de colisões durante a inserção (Divisão): 2
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Multiplicação): 838354500 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 3
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Dobramento): 798546700 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 3
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100: 1108 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100: 1139 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100: 1102 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100 e 5000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100: 5954538600 nanossegundos.
+Número de colisões durante a inserção (Divisão): 57
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Multiplicação): 6095878400 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 57
+Tempo de inserção para conjunto de dados com tamanho de tabela 100 (Dobramento): 5902552700 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 53
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100: 1109 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100: 1146 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100: 1160 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 1000 e 20000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000: 1966900 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Multiplicação): 2282300 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Dobramento): 2013600 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 1000: 167 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 1000: 159 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 1000: 150 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 1000 e 100000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000: 19672700 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Multiplicação): 23268700 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Dobramento): 19138400 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 1000: 326 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 1000: 336 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 1000: 331 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 1000 e 500000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000: 307427400 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Multiplicação): 287909200 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Dobramento): 286874300 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 1000: 559 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 1000: 861 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 1000: 859 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 1000 e 1000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000: 775064000 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Multiplicação): 783126600 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Dobramento): 858971600 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 1000: 663 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 1000: 663 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 1000: 1028 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 1000 e 5000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000: 5541930800 nanossegundos.
+Número de colisões durante a inserção (Divisão): 6
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Multiplicação): 6030379000 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 7
+Tempo de inserção para conjunto de dados com tamanho de tabela 1000 (Dobramento): 5763718600 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 11
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 1000: 1143 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 1000: 1156 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 1000: 1160 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10000 e 20000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000: 2696500 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Multiplicação): 2836900 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Dobramento): 3284700 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10000: 146 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10000: 143 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10000: 177 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10000 e 100000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000: 17637600 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Multiplicação): 17305700 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Dobramento): 28277000 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10000: 351 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10000: 302 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10000: 337 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10000 e 500000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000: 256488300 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Multiplicação): 236806100 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Dobramento): 282596000 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10000: 843 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10000: 788 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10000: 758 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10000 e 1000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000: 688722800 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Multiplicação): 694592200 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Dobramento): 797483200 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10000: 1068 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10000: 1114 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10000: 1142 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 10000 e 5000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000: 5052528100 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Multiplicação): 5792531500 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 10000 (Dobramento): 5838200900 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 3
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 10000: 1011 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 10000: 1121 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 10000: 1146 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100000 e 20000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000: 3465400 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Multiplicação): 3671900 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Dobramento): 4126300 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100000: 172 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100000: 180 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100000: 182 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100000 e 100000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000: 21536400 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Multiplicação): 24284200 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Dobramento): 29287400 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100000: 299 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100000: 276 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100000: 353 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100000 e 500000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000: 180949100 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Multiplicação): 173527400 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Dobramento): 298214200 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100000: 336 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100000: 490 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100000: 834 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100000 e 1000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000: 432037600 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Multiplicação): 511792500 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Dobramento): 760737500 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 0
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100000: 349 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100000: 417 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100000: 1082 nanossegundos.
+---------------------------------------
+Testando com tamanho de tabela 100000 e 5000000 conjuntos de dados:
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000: 3331863100 nanossegundos.
+Número de colisões durante a inserção (Divisão): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Multiplicação): 3876043100 nanossegundos.
+Número de colisões durante a inserção (Multiplicação): 0
+Tempo de inserção para conjunto de dados com tamanho de tabela 100000 (Dobramento): 5764082000 nanossegundos.
+Número de colisões durante a inserção (Dobramento): 7
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Divisão) 100000: 684 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Multiplicação) 100000: 798 nanossegundos.
+---------------------------------------
+Tempo médio de busca para conjunto de dados com tamanho de tabela (Dobramento) 100000: 1084 nanossegundos.
+---------------------------------------
+
+Process finished with exit code 0
